@@ -1,0 +1,16 @@
+Experiment 5: Developing a Toggle Button
+Aim
+To design and develop a toggle button that switches between two states (ON/OFF) when clicked, using programming techniques.
+
+Algorithm
+1.Start the program.
+2.Initialize the toggle button with a default state (e.g., OFF).
+3.Display the toggle button on the screen.
+4.Wait for the user to click or interact with the button.
+5.When the button is clicked:
+6.Check the current state of the button.
+7.If the state is OFF, change it to ON.
+8.If the state is ON, change it to OFF.
+9.Update the button appearance/text based on the new state.
+10.Repeat steps 4–6 until the program is terminated.
+11.Stop the program.
